@@ -1,0 +1,52 @@
+{
+  "catchment_km2": 508.0,
+  "river_segments": 183,
+  "elevation_m": [
+    130,
+    1445
+  ],
+  "epochs": [
+    {
+      "epoch": "1985-1995",
+      "weighted_cn": 81.11,
+      "S_mm": 59.2,
+      "Q_mm": 69.9,
+      "runoff_volume_Mm3": 35.52,
+      "rainfall_mm": 120.0,
+      "Water": 1.77,
+      "Built-up": 1.71,
+      "Agriculture": 65.89,
+      "Forest": 17.01,
+      "Shrub/Pasture": 4.89,
+      "Barren": 8.72
+    },
+    {
+      "epoch": "1995-2005",
+      "weighted_cn": 81.83,
+      "S_mm": 56.4,
+      "Q_mm": 71.6,
+      "runoff_volume_Mm3": 36.37,
+      "rainfall_mm": 120.0,
+      "Water": 1.77,
+      "Built-up": 4.22,
+      "Agriculture": 63.38,
+      "Forest": 3.37,
+      "Shrub/Pasture": 18.54,
+      "Barren": 8.72
+    },
+    {
+      "epoch": "2005-2015",
+      "weighted_cn": 82.16,
+      "S_mm": 55.2,
+      "Q_mm": 72.4,
+      "runoff_volume_Mm3": 36.76,
+      "rainfall_mm": 120.0,
+      "Water": 1.77,
+      "Built-up": 7.11,
+      "Agriculture": 60.5,
+      "Forest": 0.18,
+      "Shrub/Pasture": 21.73,
+      "Barren": 8.72
+    }
+  ]
+}
